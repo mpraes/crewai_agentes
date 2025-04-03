@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+crewai_uv_project.egg-info/PKG-INFO
+crewai_uv_project.egg-info/SOURCES.txt
+crewai_uv_project.egg-info/dependency_links.txt
+crewai_uv_project.egg-info/requires.txt
+crewai_uv_project.egg-info/top_level.txt

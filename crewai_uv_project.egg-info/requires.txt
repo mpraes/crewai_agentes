@@ -1,0 +1,4 @@
+crewai[tools]>=0.108.0
+langchain
+langchain-community
+ollama

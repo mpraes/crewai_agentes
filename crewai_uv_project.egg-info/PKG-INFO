@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: crewai-uv-project
+Version: 0.1.0
+Summary: Local CrewAI app with Ollama and DeepSeek
+Requires-Python: >=3.10
+Requires-Dist: crewai[tools]>=0.108.0
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: ollama

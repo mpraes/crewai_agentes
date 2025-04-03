@@ -1,0 +1,13 @@
+[project]
+name = "crewai-uv-project"
+version = "0.1.0"
+description = "Local CrewAI app with Ollama and DeepSeek"
+requires-python = ">=3.10"
+
+dependencies = [
+  "crewai[tools]>=0.108.0",
+  "langchain",
+  "langchain-community",
+  "ollama"
+]
+
